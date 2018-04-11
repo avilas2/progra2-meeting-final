@@ -1,1 +1,1 @@
-# progra2-meeting-final
+# Meetable - a meeting management application
